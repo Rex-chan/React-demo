@@ -6,7 +6,7 @@ export default class App extends Component {
         return (
             <Fragment>
                 <div>
-                    <Button type="primary">Button</Button>
+                    <Button type="primary">添加</Button>
                 </div>
             </Fragment>
         )
